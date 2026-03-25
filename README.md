@@ -8,7 +8,7 @@
 ## 安装
 1. 确保已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展。
 2. 点击下方链接安装脚本：
-[![安装脚本](https://img.shields.io/badge/安装脚本-点击这里-brightgreen)](https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/禁用视频暂停（blur+visibility）.user.js)) 安装。
+[![安装脚本](https://img.shields.io/badge/安装脚本-点击这里-brightgreen)](https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/labsafe-unpause.user.js)) 安装。
 3. 刷新目标网页即可生效。
 ## 原理
 覆盖 `window.onblur` 和 Page Visibility API，使网站无法检测到页面失焦。

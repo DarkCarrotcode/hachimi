@@ -5,8 +5,8 @@
 // @description  覆盖 onblur 和 visibility API，防止后台暂停
 // @author       You
 // @match        *://labsafe.hit.edu.cn/*
-// @downloadURL  https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/禁用视频暂停（blur+visibility）.user.js
-// @updateURL    https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/禁用视频暂停（blur+visibility）.user.js
+// @downloadURL  https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/labsafe-unpause.user.js
+// @updateURL    https://raw.githubusercontent.com/DarkCarrotcode/hachimi/main/labsafe-unpause.user.js
 // @grant        none
 // ==/UserScript==
 
